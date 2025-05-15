@@ -1,0 +1,16 @@
+body {
+    margin:40px 80px;
+
+}
+
+#to-address {
+    text-align: right;
+}
+
+#subject {
+    font-size: 24px;
+}
+
+#starting-dates p:first-child, #subject-of-study p:first-child, #exotic-dance-moves p:first-child {
+    font-size:20px;
+}
