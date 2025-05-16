@@ -17,4 +17,4 @@ This project is a simple, responsive birdwatching website built as a learning ex
 
 ## Screenshot
 
-![Bird watching site screenshot](./images/bird-site-screenshot)
+![Bird watching site screenshot](./images/bird-site-screenshot.png)
